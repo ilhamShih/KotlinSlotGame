@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">APP_NAME_KEY</string>
+
+    <!--Mode 1 -->
+    <string name="seting_1">Mode Consecutive</string>
+    <!--Mode 2 -->
+    <string name="seting_2">Mode Invertede</string>
+
+</resources>
